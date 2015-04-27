@@ -14,6 +14,9 @@
 		360BE5811AE9ACBB0013AC9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 360BE57F1AE9ACBB0013AC9A /* LaunchScreen.xib */; };
 		360BE58D1AE9ACBB0013AC9A /* SwiftTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360BE58C1AE9ACBB0013AC9A /* SwiftTestTests.swift */; };
 		360BE5971AE9ACE60013AC9A /* AwesomeClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360BE5961AE9ACE60013AC9A /* AwesomeClass.swift */; };
+		36492E7E1AEEB81A0058CC53 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360BE5781AE9ACBB0013AC9A /* ViewController.swift */; };
+		36492E7F1AEEB81C0058CC53 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360BE5761AE9ACBB0013AC9A /* AppDelegate.swift */; };
+		36492E801AEEB8210058CC53 /* AwesomeClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 360BE5961AE9ACE60013AC9A /* AwesomeClass.swift */; };
 		BCFFF475FDE09280C008BFAF /* Pods_SwiftTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5438D55E2B302DE7D468944C /* Pods_SwiftTest.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
@@ -300,6 +303,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36492E801AEEB8210058CC53 /* AwesomeClass.swift in Sources */,
+				36492E7F1AEEB81C0058CC53 /* AppDelegate.swift in Sources */,
+				36492E7E1AEEB81A0058CC53 /* ViewController.swift in Sources */,
 				360BE58D1AE9ACBB0013AC9A /* SwiftTestTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -10,7 +10,7 @@ import UIKit
 import XCTest
 
 class SwiftTestTests: XCTestCase {
-    /*
+    
     let awesomeObject = AwesomeClass()
     
     override func setUp() {
@@ -49,5 +49,5 @@ class SwiftTestTests: XCTestCase {
     func testFooBar() {
         XCTAssertTrue(awesomeObject.foobar(), "Fail")
     }
-    */
+    
 }
